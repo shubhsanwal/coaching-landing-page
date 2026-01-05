@@ -1,0 +1,58 @@
+[
+  {
+    "id": "r1",
+    "name": "Aditi Sharma",
+    "exam": "NEET-UG",
+    "year": "2024",
+    "rankOrScore": "AIR 523",
+    "college": "Govt. Medical College (AIIMS-like level)"
+  },
+  {
+    "id": "r2",
+    "name": "Rohan Singh",
+    "exam": "NEET-UG",
+    "year": "2023",
+    "rankOrScore": "630/720",
+    "college": "Top Govt. MBBS college in North India"
+  },
+  {
+    "id": "r3",
+    "name": "Harshit Bansal",
+    "exam": "JEE (Main + Advanced)",
+    "year": "2024",
+    "rankOrScore": "AIR 1890",
+    "college": "Indian Institute of Technology (IIT)"
+  },
+  {
+    "id": "r4",
+    "name": "Priya Verma",
+    "exam": "JEE Main",
+    "year": "2023",
+    "rankOrScore": "99.1 percentile",
+    "college": "Top NIT (Computer Science)"
+  },
+  {
+    "id": "r5",
+    "name": "Nidhi Rawat",
+    "exam": "GBPUAT",
+    "year": "2023",
+    "rankOrScore": "Top 100 Rank",
+    "college": "Govind Ballabh Pant University of Agriculture & Technology"
+  },
+  {
+    "id": "r6",
+    "name": "Vivek Joshi",
+    "exam": "ICAR UG",
+    "year": "2022",
+    "rankOrScore": "Top 200 Rank",
+    "college": "Top ICAR recognised university"
+  },
+  {
+    "id": "r7",
+    "name": "Manvi Gupta",
+    "exam": "CBSE Class 12",
+    "year": "2023",
+    "rankOrScore": "96%",
+    "college": "Pursuing MBBS with NEET rank from Catalyst support"
+  }
+]

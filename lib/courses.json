@@ -1,0 +1,114 @@
+[
+  {
+    "id": "neet-ug-2yr",
+    "name": "NEET-UG 2 Year Integrated Program",
+    "category": "Entrance",
+    "target": "Class 11-12 | NEET-UG",
+    "duration": "2 Years",
+    "mode": "Classroom + Hybrid support",
+    "highlight": "Ideal for dedicated Class 10 pass-outs targeting AIIMS & top Govt. medical colleges.",
+    "type": "Flagship Classroom",
+    "features": [
+      "Concept-first teaching with NCERT line-by-line coverage.",
+      "Daily practice problems (DPPs) and weekly part tests.",
+      "Full syllabus NEET pattern tests with detailed analytics.",
+      "Regular PTMs and parent dashboards for progress tracking."
+    ]
+  },
+  {
+    "id": "neet-ug-1yr",
+    "name": "NEET-UG 1 Year Target Batch",
+    "category": "Entrance",
+    "target": "Class 12 / Dropper | NEET-UG",
+    "duration": "1 Year",
+    "mode": "Classroom + Hybrid support",
+    "highlight": "Focused revision batch for serious aspirants with strong basics.",
+    "type": "Target Batch",
+    "features": [
+      "Fast-track concept recap and problem practice.",
+      "Grand tests simulating NEET exam hall environment.",
+      "Question discussion marathons and doubt counters.",
+      "Personalized improvement plans based on test performance."
+    ]
+  },
+  {
+    "id": "jee-2yr",
+    "name": "JEE (Main + Advanced) 2 Year Program",
+    "category": "Entrance",
+    "target": "Class 11-12 | JEE",
+    "duration": "2 Years",
+    "mode": "Classroom + Hybrid support",
+    "highlight": "Balanced JEE Main and Advanced preparation with boards integration.",
+    "type": "Flagship Classroom",
+    "features": [
+      "Strong conceptual focus in Physics, Chemistry, Mathematics.",
+      "Daily practice sheets with mixed-level problems.",
+      "Topic-wise & full-syllabus JEE mock tests.",
+      "Mentor-guided attempt planning for Main & Advanced."
+    ]
+  },
+  {
+    "id": "gbpuat-icar-vet",
+    "name": "GBPUAT / ICAR / Veterinary Sciences",
+    "category": "Entrance",
+    "target": "Agri & Vet. entrance exams",
+    "duration": "1 Year",
+    "mode": "Classroom + Hybrid",
+    "highlight": "Specialised content, test series and mentoring for agriculture & veterinary entrances.",
+    "type": "Specialised Batch",
+    "features": [
+      "Exam-specific theory and objective question practice.",
+      "Dedicated test series with GBPUAT & ICAR pattern.",
+      "Doubt-solving sessions with domain experts.",
+      "Guidance for college and branch selection."
+    ]
+  },
+  {
+    "id": "school-9-10",
+    "name": "School Excellence Program (Classes 9-10)",
+    "category": "School",
+    "target": "Class 9-10 | CBSE/State Board",
+    "duration": "Year-long",
+    "mode": "Classroom",
+    "highlight": "Concept clarity and high board scores with Olympiad support.",
+    "type": "School Academics",
+    "features": [
+      "NCERT-aligned coverage for Maths & Science.",
+      "Regular class tests and unit-wise worksheets.",
+      "Olympiad & NTSE level question exposure.",
+      "Study habit building with daily homework tracking."
+    ]
+  },
+  {
+    "id": "school-11-12",
+    "name": "Integrated Board + Entrance (Classes 11-12)",
+    "category": "School",
+    "target": "Class 11-12 | Boards + NEET/JEE",
+    "duration": "2 Years",
+    "mode": "Classroom",
+    "highlight": "Manage both boards and entrance syllabi without burnout.",
+    "type": "Integrated Program",
+    "features": [
+      "Separate board-style and entrance-style practice.",
+      "Sample paper discussions and answer writing sessions.",
+      "Doubt counters before school exams.",
+      "Mentoring on balancing school, coaching and self-study."
+    ]
+  },
+  {
+    "id": "hybrid-mentorship",
+    "name": "Hybrid Mentorship & Online Support",
+    "category": "Hybrid",
+    "target": "Outstation / school-busy students",
+    "duration": "Custom",
+    "mode": "Online + Occasional in-centre",
+    "highlight": "Perfect for students who cannot attend all physical classes in Haldwani.",
+    "type": "Hybrid / Online",
+    "features": [
+      "Live doubt sessions and strategy calls.",
+      "Access to recorded concept capsules.",
+      "Online test series with analytics dashboard.",
+      "Periodic in-centre revision camps (optional)."
+    ]
+  }
+]

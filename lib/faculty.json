@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fac-1",
+    "name": "Dr. Anjali Verma",
+    "subject": "Biology | NEET-UG",
+    "qualification": "MBBS, MD (AIIMS alumna)",
+    "experience": "9+ years NEET mentoring",
+    "highlight": "Known for crystal-clear NCERT explanation and high-yield diagrams for Biology."
+  },
+  {
+    "id": "fac-2",
+    "name": "Er. Rahul Singh",
+    "subject": "Physics | NEET & JEE",
+    "qualification": "B.Tech (NIT), Ex-corporate trainer",
+    "experience": "8+ years NEET/JEE experience",
+    "highlight": "Makes mechanics and electromagnetism intuitive with real-life models and experiments."
+  },
+  {
+    "id": "fac-3",
+    "name": "Prof. Meenakshi Joshi",
+    "subject": "Chemistry | NEET & JEE",
+    "qualification": "M.Sc. Chemistry, NET qualified",
+    "experience": "10+ years teaching competitive chemistry",
+    "highlight": "Special focus on Physical chemistry numericals and Organic reaction mapping."
+  },
+  {
+    "id": "fac-4",
+    "name": "Er. Aditya Rawat",
+    "subject": "Mathematics | JEE & Boards",
+    "qualification": "B.Tech (IIT alumnus)",
+    "experience": "7+ years JEE coaching",
+    "highlight": "Helps students crack complex JEE problems with pattern recognition shortcuts."
+  },
+  {
+    "id": "fac-5",
+    "name": "Dr. Kavita Shah",
+    "subject": "Agricultural & Vet. Sciences",
+    "qualification": "PhD (Agronomy)",
+    "experience": "6+ years GBPUAT / ICAR exam mentoring",
+    "highlight": "Guides aspirants on syllabus, exam pattern and career roadmap in agriculture & veterinary."
+  },
+  {
+    "id": "fac-6",
+    "name": "Rohit Kumar",
+    "subject": "Science & Maths | 9-10",
+    "qualification": "M.Sc., B.Ed.",
+    "experience": "8+ years school academics",
+    "highlight": "Known for simplifying board concepts and building strong fundamentals for entrances."
+  }
+]

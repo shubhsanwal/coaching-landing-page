@@ -1,0 +1,39 @@
+[
+  {
+    "id": "t1",
+    "name": "Aditi Sharma",
+    "exam": "NEET-UG",
+    "year": "2024",
+    "rankOrScore": "AIR 523 | Govt. Medical College",
+    "message": "The disciplined mock tests and instant doubt-solving at Catalyst kept me consistent. The mentors tracked every small improvement.",
+    "rating": 5,
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": "t2",
+    "name": "Harshit Bansal",
+    "exam": "JEE (Main + Advanced)",
+    "year": "2024",
+    "rankOrScore": "AIR 1890 | IIT seat",
+    "message": "Physics and Maths problem practice here is next level. The analysis after each test showed exactly where I lost marks.",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "name": "Nidhi Rawat",
+    "exam": "GBPUAT",
+    "year": "2023",
+    "rankOrScore": "Top 100 Rank | GBPUAT",
+    "message": "Focused agricultural entrance material and one-to-one guidance for forms and counselling reduced all my stress.",
+    "rating": 4
+  },
+  {
+    "id": "t4",
+    "name": "Rohan Mehta",
+    "exam": "CBSE Class 10",
+    "year": "2023",
+    "rankOrScore": "97% in Boards",
+    "message": "The 9-10 foundation program explained every NCERT concept clearly. Regular tests made the final board exam feel familiar.",
+    "rating": 5
+  }
+]
