@@ -60,7 +60,7 @@ const Hero: React.FC = () => {
     [selectedGoalId]
   );
 
-  const particlesInit = async (engine: Engine) => {
+  const particlesInit = async (engine: any) => {
     await loadFull(engine);
   };
 

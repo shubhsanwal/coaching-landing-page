@@ -20,6 +20,7 @@ import testimonials from '@/lib/testimonials.json';
 import faculty from '@/lib/faculty.json';
 import results from '@/lib/results.json';
 import blog from '@/lib/blog.json';
+import { Course } from '@/components/Courses';
 
 export const revalidate = 60; // ISR for blog-like content
 
@@ -31,7 +32,7 @@ const HomePage = async () => {
       <main className="relative overflow-x-hidden">
         <Hero />
         <About />
-        <Courses courses={courses} />
+        <Courses courses={courses as Course[]} />
         <Faculty faculty={faculty} />
         <Testimonials testimonials={testimonials} />
         <Results results={results} />
