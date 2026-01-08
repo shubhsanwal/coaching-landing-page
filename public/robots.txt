@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://catalystinstitute.in
+
+# Sitemaps
+Sitemap: https://catalystinstitute.in/sitemap.xml
